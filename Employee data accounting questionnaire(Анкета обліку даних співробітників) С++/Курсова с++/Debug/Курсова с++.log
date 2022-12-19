@@ -1,0 +1,8 @@
+﻿  Functions.cpp
+C:\Users\ursul\OneDrive\Робочий стіл\Курсова с++\Курсова с++\Functions.cpp(667,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\ursul\OneDrive\Робочий стіл\Курсова с++\Курсова с++\Functions.cpp(669,5): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ursul\OneDrive\Робочий стіл\Курсова с++\Курсова с++\Functions.cpp(678,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\ursul\OneDrive\Робочий стіл\Курсова с++\Курсова с++\Functions.cpp(680,5): warning C4553: '==': result of expression not used; did you intend '='?
+  MainPage.cpp
+  Generating Code...
+  Курсова с++.vcxproj -> C:\Users\ursul\OneDrive\Робочий стіл\Курсова с++\Debug\Курсова с++.exe
